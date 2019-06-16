@@ -16,9 +16,9 @@ I'm trying to travel whenever I can, so far I've been to
 - Poland
 - and... Germany
 
-If you're interesting in working with me, check this out https://www.hellofresh.com/careers/locations/de and drop me an email at `nt [at] hellofresh [dot] com`
+If you're interesting in working with me, check [this](https://www.hellofresh.com/careers/locations/de) out and drop me an email at `nt [at] hellofresh [dot] com`
 
-And just in case, you know, for networking ;) https://www.linkedin.com/in/thmnhat/
+And just in case, you know, for networking... [my linkedin profile](https://www.linkedin.com/in/thmnhat/) ;)
 
 Alright, that's it
 
