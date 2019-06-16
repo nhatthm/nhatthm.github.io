@@ -1,1 +1,21 @@
 ## Hello World
+
+Hey,
+
+Hi there, I'm quite busy at the moment with the work from my company and need to balance between work - wife - life, you know... so no interesting content at the moment.
+
+I'm trying to travel whenever I can, so far I've been to
+- Vietnam (of course, my home)
+- Laos (just 10km from the border)
+- Cambodia
+- Singapore
+- Thailand
+- Malaysia
+- China
+- UAE
+- Poland
+- and... Germany
+
+If you're interesting in working with me, check this out https://www.hellofresh.com/careers/locations/de and drop me an email at `nt [at] hellofresh [dot] com`
+
+Alright, that's it
