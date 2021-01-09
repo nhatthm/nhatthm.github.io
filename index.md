@@ -14,6 +14,10 @@ I'm trying to travel whenever I can, so far I've been to
 - China
 - UAE
 - Poland
+- Malta
+- Italy
+- Belgium
+- Luxembourg
 - Czech
 - Slovakia
 - Austria
