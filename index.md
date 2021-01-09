@@ -18,7 +18,7 @@ I'm trying to travel whenever I can, so far I've been to
 
 If you're interesting in working with me, check [this](https://www.hellofresh.com/careers/locations/de) out and drop me an email at `nt [at] hellofresh [dot] com`
 
-And just in case, you know, for networking... [my linkedin profile](https://www.linkedin.com/in/thmnhat/) ;)
+And just in case, you know, for networking... [my linkedin profile](https://www.linkedin.com/in/nhatthm/) ;)
 
 Alright, that's it
 
