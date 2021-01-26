@@ -11,6 +11,7 @@ I'm trying to travel whenever I can, so far I've been to
 - Singapore
 - Thailand
 - Malaysia
+- Myanmar
 - China
 - UAE
 - Poland
@@ -24,7 +25,7 @@ I'm trying to travel whenever I can, so far I've been to
 - Hungary
 - and... Germany
 
-If you're interesting in working with me, check [this](https://www.hellofresh.com/careers/locations/de) out and drop me an email at `nt [at] hellofresh [dot] com`
+If you're interesting in working with me, check [this](https://www.hellofresh.com/careers/locations/de) out and drop me an email at `contact [at] nhat [dot] me`
 
 And just in case, you know, for networking... [my linkedin profile](https://www.linkedin.com/in/nhatthm/) ;)
 
