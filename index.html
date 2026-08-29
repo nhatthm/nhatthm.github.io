@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Nhat</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600&display=swap">
+<style>
+  :root {
+    --bg: #F7F7FB; --ink: #14162B; --body: #4C4F66; --mute: #63667F;
+    --line: #E1E1EC; --btn: #2547E8; --btn-ink: #FFFFFF; --accent: #2547E8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0E0F1A; --ink: #EEEEF6; --body: #A2A5BC; --mute: #8A8DA6;
+      --line: #22243A; --btn: #8AA8FF; --btn-ink: #0E0F1A; --accent: #8AA8FF;
+    }
+  }
+  body { margin: 0; background: var(--bg); font-family: 'Manrope', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: var(--ink); text-decoration: none; }
+  a:hover { opacity: .7; }
+</style>
+</head>
+<body>
+
+<div style="background:var(--bg); color:var(--ink); min-height:100vh; padding:0 28px">
+
+  <nav style="max-width:620px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; gap:20px; padding:24px 0; border-bottom:1px solid var(--line); font-size:15px; font-weight:500">
+    <a href="/" style="color:var(--accent)">About me</a>
+    <a href="https://go.nhat.io">Go registry</a>
+    <a href="https://fonts.nhat.io">Ligaturized fonts</a>
+  </nav>
+
+  <div style="width:100%; max-width:620px; margin:0 auto; padding:96px 0 88px; display:flex; flex-direction:column; align-items:center; text-align:center; gap:30px">
+
+    <span style="font-size:12px; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--mute)">Nhat · Berlin</span>
+
+    <h1 style="margin:0; max-width:22ch; font-size:38px; font-weight:500; line-height:1.24; letter-spacing:-0.028em; text-wrap:balance">Hello. I'm a <span style="white-space:nowrap; color:var(--accent)">staff engineer</span> who writes Go.</h1>
+
+    <p style="margin:0; max-width:48ch; font-size:18px; font-weight:300; line-height:1.72; color:var(--body); text-wrap:pretty">Vietnamese, living in Berlin. I design and build backend systems in Go, mostly distributed architectures and microservices that carry serious traffic, along with the tooling engineering teams rely on every day. I work best where scale, reliability and developer experience meet.</p>
+
+
+    <div style="display:flex; gap:10px; padding-top:6px">
+      <a href="mailto:contact@nhat.me" style="padding:12px 24px; border-radius:999px; background:var(--btn); color:var(--btn-ink); font-size:15px; font-weight:500">contact@nhat.me</a>
+      <a href="https://github.com/nhatthm" style="padding:12px 24px; border-radius:999px; border:1px solid var(--line); font-size:15px; font-weight:500">GitHub</a>
+      <a href="https://linkedin.com/in/nhatthm" style="padding:12px 24px; border-radius:999px; border:1px solid var(--line); font-size:15px; font-weight:500">LinkedIn</a>
+    </div>
+
+    <div style="width:100%; display:flex; flex-direction:column; align-items:center; gap:16px; margin-top:56px; padding-top:44px; border-top:1px solid var(--line)">
+      <span style="font-size:12px; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--mute)">33 countries and counting</span>
+      <p style="margin:0; max-width:44ch; font-size:17px; font-weight:300; line-height:1.7; color:var(--body); text-wrap:pretty">I travel as often as work allows. Airports, night trains, questionable rental cars. If there is a way to get there, I will take it, and I am always happy to swap recommendations.</p>
+      <div class="map" style="width:100%; margin-top:4px">
+        <img src="images/travel-map.svg" alt="World map highlighting 33 countries visited" style="width:100%; height:auto; display:block">
+      </div>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>
