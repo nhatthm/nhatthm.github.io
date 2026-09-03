@@ -93,8 +93,8 @@ nav { width: 100%; max-width: 720px; margin: 0 auto; display: flex; align-items:
 .usage-copy:hover { opacity: .65; }
 
 .specimen-box { display: flex; align-items: center; background: var(--code); border-radius: 16px; padding: 18px 20px; overflow-x: auto; }
-.specimen { flex: none; font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace; font-variant-ligatures: contextual common-ligatures; font-feature-settings: 'calt' 1, 'liga' 1; font-size: 22px; font-weight: 400; line-height: 1.3; white-space: nowrap; color: #ABB2BF; }
-.specimen-note { font-size: 13.5px; font-weight: 300; line-height: 1.6; color: var(--mute); margin-top: 10px; display: block; }
+.specimen { flex: none; font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace; font-variant-ligatures: contextual common-ligatures; font-feature-settings: 'calt' 1, 'liga' 1; font-size: 22px; font-weight: 400; line-height: 1.5; white-space: nowrap; color: #ABB2BF; }
+.code-note { font-size: 13.5px; font-weight: 300; line-height: 1.6; color: var(--mute); margin-top: 10px; display: block; }
 
 .list-head { margin-top: 34px; display: flex; align-items: baseline; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
 .list-count { font-size: 12px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mute); }
